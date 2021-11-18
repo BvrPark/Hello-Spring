@@ -6,9 +6,9 @@ plugins {
 
 group = 'hello'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+sourceCompatibility = '11'		//자바 버젼
 
-repositories {
+repositories {				//라이브러리를 가져오는 repositories
 	mavenCentral()
 }
 
